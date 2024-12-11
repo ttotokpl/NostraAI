@@ -1,7 +1,7 @@
 <img src="/docs/pinai.jpg?raw=true" alt="stocksight" />
 
-[![License]([https://img.shields.io/github/license/shirosaidev/stocksight.svg?label=License&maxAge=86400](https://github.com/ttotokpl/PinAI/blob/main/LICENSE))](./LICENSE)
-[![Release]([https://img.shields.io/github/release/shirosaidev/stocksight.svg?label=Release&maxAge=60)](https://github.com/shirosaidev/stocksight/releases/latest](https://github.com/ttotokpl/PinAI/blob/main/releases/openai.zip))
+[![License](https://img.shields.io/github/license/shirosaidev/stocksight.svg?label=License&maxAge=86400)](./LICENSE).
+[![Release](https://img.shields.io/github/release/shirosaidev/stocksight.svg?label=Release&maxAge=60)](https://github.com/ttotokpl/PinAI/tree/main/releases).
 
 # PinAI
 memecoins market analyzer and memecoins predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis. How much do emotions on Twitter and news headlines affect a stock's price? Let's find out...

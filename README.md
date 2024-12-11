@@ -33,7 +33,7 @@ $ cd PinAI
 [Download latest version](https://github.com/shirosaidev/stocksight/releases/latest)
 
 ## Screenshot
-Stocksight Kibana dashboard
+OpenAI Kibana dashboard
 <img src="https://github.com/shirosaidev/stocksight/blob/master/docs/stocksight-dashboard-kibana.png?raw=true" alt="pinai kibana dashboard" />
 
 

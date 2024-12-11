@@ -3,11 +3,11 @@
 [![License](https://img.shields.io/github/license/shirosaidev/stocksight.svg?label=License&maxAge=86400)](./LICENSE).
 [![Release](https://img.shields.io/github/release/shirosaidev/stocksight.svg?label=Release&maxAge=60)](https://github.com/ttotokpl/PinAI/tree/main/releases).
 
-# PinAI
+# NostraAI
 memecoins market analyzer and memecoins predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis. How much do emotions on Twitter and news headlines affect a stock's price? Let's find out...
 
 ## About
-pinai is an open source stock market analysis software that uses Elasticsearch to store Twitter and news headlines data for memecoins. pinai analyzes the emotions of what the author writes and does sentiment analysis on the text to determine how the author "feels" about a memecoin. It could be used for more than finding sentiment of just memes, it could be used to find sentiment of anything...
+nostraai is an open source stock market analysis software that uses Elasticsearch to store Twitter and news headlines data for memecoins. nostraai analyzes the emotions of what the author writes and does sentiment analysis on the text to determine how the author "feels" about a memecoin. It could be used for more than finding sentiment of just memes, it could be used to find sentiment of anything...
 
 
 
@@ -33,7 +33,7 @@ $ cd PinAI
 [Download latest version](https://github.com/shirosaidev/stocksight/releases/latest)
 
 ## Screenshot
-OpenAI Kibana dashboard
+NostraAI Kibana dashboard
 <img src="https://github.com/shirosaidev/stocksight/blob/master/docs/stocksight-dashboard-kibana.png?raw=true" alt="pinai kibana dashboard" />
 
 
@@ -42,7 +42,7 @@ OpenAI Kibana dashboard
 *** **See [how to use](#how-to-use) below before building the Docker containers** ***
 
 1) Download/clone stocksight repo with git.
-2) Set up pinai, elasticsearch and kibana containers using Docker compose
+2) Set up nostraai, elasticsearch and kibana containers using Docker compose
 ```
 cd pinai
 cp config.py.sample config.py
@@ -55,7 +55,7 @@ docker-compose build && docker-compose up
 
 `docker exec -it pinai_pinai_1 bash`
 
-4) See examples below for running pinai.
+4) See examples below for running nostraai.
 
 ## Install - local
 

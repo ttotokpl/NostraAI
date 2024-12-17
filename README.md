@@ -3,11 +3,11 @@
 [![License](https://img.shields.io/github/license/shirosaidev/stocksight.svg?label=License&maxAge=86400)](./LICENSE).
 [![Release](https://img.shields.io/github/release/shirosaidev/stocksight.svg?label=Release&maxAge=60)](https://github.com/ttotokpl/PinAI/tree/main/releases).
 
-# NostraAI
+# PinAI
 memecoins market analyzer and memecoins predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis. How much do emotions on Twitter and news headlines affect a stock's price? Let's find out...
 
 ## About
-nostraai is an open source stock market analysis software that uses Elasticsearch to store Twitter and news headlines data for memecoins. nostraai analyzes the emotions of what the author writes and does sentiment analysis on the text to determine how the author "feels" about a memecoin. It could be used for more than finding sentiment of just memes, it could be used to find sentiment of anything...
+pinai is an open source stock market analysis software that uses Elasticsearch to store Twitter and news headlines data for memecoins. nostraai analyzes the emotions of what the author writes and does sentiment analysis on the text to determine how the author "feels" about a memecoin. It could be used for more than finding sentiment of just memes, it could be used to find sentiment of anything...
 
 
 
